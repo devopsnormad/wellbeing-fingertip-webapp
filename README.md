@@ -1,4 +1,4 @@
-# React Admin Dashboard
+# Wellbeing@fingertip Dashboard
 
-Completed React Admin Dashboard Repo
+Completed Wellbeing@fingertip Dashboard Repo
 
